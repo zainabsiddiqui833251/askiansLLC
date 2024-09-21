@@ -22,7 +22,7 @@ const Contact = () => {
             <li><Link href=''><i className='bi bi-tiktok  text-[#002db3] hover:text-[#0000ff]'></i></Link></li>
             <li><Link href=''><i className='bi bi-linkedin  text-[#002db3] hover:text-[#0000ff]'></i></Link></li>
             <li><Link href=''><i className='bi bi-youtube  text-[#002db3] hover:text-[#0000ff]'></i></Link></li>
-'
+
           </ul>
         </div>
         <div className='contact-form w-[50%]  p-7'>
