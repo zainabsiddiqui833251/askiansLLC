@@ -38,7 +38,7 @@ nav ul li .link:hover::after{
     background-size: 550px 450px;
 }
 .mission{
-    background-image: url(../../public/images/mission.png);
+    background-image: url(../../public/images/MISSION.png);
     height: auto;
     background-position: left;
     background-repeat: no-repeat;
