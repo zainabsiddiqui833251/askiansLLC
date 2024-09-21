@@ -63,8 +63,8 @@ const About = () => {
         <div className="mission w-[90%] m-auto p-5 flex justify-end" id='mission'>
           <div className="mission-cont capitalize w-[50%] grid justify-end p-[3%]">
             <h2 className='text-center text-[2.8vw] font-bold text-[#0000ff]'>our mission</h2>
-            <p className='text-[1.2vw]'>"To help businesses achieve e-commerce success through customized solutions, ensuring they thrive in both
-              domestic and international markets."</p>
+            <p className='text-[1.2vw]'>&quot;To help businesses achieve e-commerce success through customized solutions, ensuring they thrive in both
+              domestic and international markets.&quot;</p>
           </div>
         </div>
       )}
