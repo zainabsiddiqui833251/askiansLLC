@@ -1,14 +1,14 @@
 import React from 'react'
 import Link from 'next/link'
 import 'bootstrap-icons/font/bootstrap-icons.css';
-'
+
 const Contact = () => {
   return (
     <div className='contact w-[100%] mt-[5%]'>
       <div className="contact-cont w-[90%] m-auto flex justify-between items-center ">
         <div className="contact-info w-[45%] p-5 ">
           <h1 className='text-[#002db3] text-[2.2vw]  font-bold'>&quot;Ready to Elevate Your Brand?&quot;</h1>
-          <h3 className='text-[#0000ff] text-[1.8w]  font-semibold'>&quot;Let&apos;s discuss how eCommerce by Askian LLC can help you succeed in the global e-commerce market."</h3>
+          <h3 className='text-[#0000ff] text-[1.8w]  font-semibold'>&quot;Let&apos;s discuss how eCommerce by Askian LLC can help you succeed in the global e-commerce market.&quot;</h3>
           <ul className='mt-4 ml-2 font-semibold text-[1.5vw]'>
             <h3 className='capitalize text-[1.7vw] text-[#0000ff]'>contact info:</h3>
 
